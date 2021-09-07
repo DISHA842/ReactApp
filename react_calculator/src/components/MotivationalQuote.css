@@ -1,0 +1,9 @@
+.MotivationalQuote {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background: #2b293d;
+  height: 20%;
+  color: pink;
+  font-size: 24px;
+}
